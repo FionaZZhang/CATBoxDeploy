@@ -1,0 +1,10 @@
+Flask
+flask-cors
+torch
+torchvision
+Pillow
+requests
+openai
+Werkzeug
+google-cloud-storage
+gunicorn
